@@ -105,8 +105,7 @@ async def generate_doc(
                 status_code=500,
             )
 
-        pdf.add_font("DejaVu", "", font_path, uni=True)
-        pdf.set_font("DejaVu", size=12)
+        pdf.set_font("Arial", size=12)
 
         for line in rendered.split("\n"):
             pdf.multi_cell(0, 10, txt=line.strip())
