@@ -1,0 +1,28 @@
+RENT AGREEMENT
+
+This Rent Agreement is made on 2025-07-16 between:
+
+Landlord: Anant Gupta, residing at koramangala
+
+Tenant: Akhil Narayam, residing at 123 rat lane
+
+Property Address: 123 Rat lane
+
+Monthly Rent: ₹50000
+Security Deposit: ₹1000000
+Start Date: 2025-07-30
+End Date: 2026-07-30
+
+Terms:
+1. Tenant shall pay rent on or before the 5th of each month.
+2. Property shall not be sub-let or misused.
+3. Maintenance and minor repairs are tenant’s responsibility.
+4. Any damage beyond regular wear shall be compensated by the tenant.
+5. Both parties agree to abide by the terms of this agreement.
+
+Signed:
+
+__________________       __________________  
+Landlord                       Tenant
+
+Date: 2025-07-16

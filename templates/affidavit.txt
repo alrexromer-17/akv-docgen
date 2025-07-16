@@ -1,0 +1,15 @@
+AFFIDAVIT
+
+I, {{ affiant_name }}, son/daughter of {{ parent_name }}, aged {{ age }} years, residing at {{ address }}, do hereby solemnly affirm and declare as under:
+
+1. That I am the deponent herein and am competent to swear this affidavit.
+2. That I am making this affidavit to affirm the following facts:
+   "{{ statement }}"
+
+I solemnly affirm that the above contents are true and correct to the best of my knowledge and belief.
+
+Deponent: ____________________  
+({{ affiant_name }})
+
+Place: {{ place }}  
+Date: {{ date }}

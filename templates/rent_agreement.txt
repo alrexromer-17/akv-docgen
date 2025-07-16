@@ -1,0 +1,28 @@
+RENT AGREEMENT
+
+This Rent Agreement is made on {{ date }} between:
+
+Landlord: {{ landlord_name }}, residing at {{ landlord_address }}
+
+Tenant: {{ tenant_name }}, residing at {{ tenant_address }}
+
+Property Address: {{ property_address }}
+
+Monthly Rent: ₹{{ monthly_rent }}
+Security Deposit: ₹{{ security_deposit }}
+Start Date: {{ start_date }}
+End Date: {{ end_date }}
+
+Terms:
+1. Tenant shall pay rent on or before the 5th of each month.
+2. Property shall not be sub-let or misused.
+3. Maintenance and minor repairs are tenant’s responsibility.
+4. Any damage beyond regular wear shall be compensated by the tenant.
+5. Both parties agree to abide by the terms of this agreement.
+
+Signed:
+
+__________________       __________________  
+Landlord                       Tenant
+
+Date: {{ date }}

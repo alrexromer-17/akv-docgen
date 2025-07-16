@@ -1,0 +1,24 @@
+DEATH CERTIFICATE REQUEST
+
+To  
+The Registrar of Births and Deaths  
+{{ municipal_office }}
+
+Subject: Request for issuance of Death Certificate
+
+Respected Sir/Madam,
+
+I, {{ applicant_name }}, resident of {{ applicant_address }}, hereby request you to issue a Death Certificate for the deceased person with the following details:
+
+- Name of Deceased: {{ deceased_name }}
+- Date of Death: {{ date_of_death }}
+- Place of Death: {{ place_of_death }}
+- Relation to Deceased: {{ relation }}
+
+I am enclosing the required documents for your reference.
+
+Kindly issue the certificate at the earliest.
+
+Sincerely,  
+{{ applicant_name }}  
+Date: {{ date }}
